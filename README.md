@@ -21,7 +21,7 @@
 
 I'm **Thejaswin S**, a B.Tech Information Technology student at **Sri Venkateswaraa College of Technology**, with an SGPA of **7.85**.
 
-My primary interest is **game development**.
+My primary interest is **Game Development**.
 
 ---
 
@@ -30,10 +30,10 @@ My primary interest is **game development**.
 ### Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,cs,godot,blender" alt="Game Development Technologies">
+<img src="https://skillicons.dev/icons?i=unity,cs,blender" alt="Game Development Technologies">
 </p>
 
-`Unity` · `C#` · `Godot` · `Blender`
+`Unity` · `C#` ·  · `Blender`
 
 ---
 
