@@ -1,71 +1,219 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=THEJASWIN%20S&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Aspiring%20Indie%20Game%20Developer&descSize=18&descAlignY=58&descColor=ff3b30" width="100%" alt="Header">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=THEJASWIN%20S&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=ASPIRING%20INDIE%20GAME%20DEVELOPER&descSize=18&descAlignY=58&descColor=ff3b30" width="100%" alt="Header">
 
-### `PLAYER PROFILE // THEJASWIN S`
+<img src="https://img.shields.io/badge/GAME%20DEVELOPER-IN%20PROGRESS-ff3b30?style=for-the-badge&labelColor=0d1117" alt="Game Developer in Progress">
 
-**B.Tech Information Technology Student**
-**Aspiring Indie Game Developer**
+<br><br>
 
-> `Learning code. Building games. Creating worlds.`
+**Learning code. Building games. Creating worlds.**
 
 <br>
 
 <a href="https://github.com/Thejaswin67">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
 <a href="https://www.linkedin.com/in/thejaswin-s/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="https://thejaswinportfolio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-ff3b30?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
 </a>
 
+</div>
+
+---
+
+## ABOUT THE DEVELOPER
+
+I'm **Thejaswin S**, a B.Tech Information Technology student focused on becoming an **Indie Game Developer**.
+
+I'm currently learning how to turn ideas into playable experiences through **Unity, C#, game mechanics, physics, AI, animation, UI/UX, and 3D development**.
+
+My long-term goal is to **design, develop, publish, and maintain original games**.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/LEARN-0d1117?style=for-the-badge&logo=bookstack&logoColor=white" alt="Learn">
+<img src="https://img.shields.io/badge/BUILD-0d1117?style=for-the-badge&logo=unity&logoColor=white" alt="Build">
+<img src="https://img.shields.io/badge/EXPERIMENT-0d1117?style=for-the-badge&logo=probot&logoColor=white" alt="Experiment">
+<img src="https://img.shields.io/badge/PUBLISH-0d1117?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Publish">
+<img src="https://img.shields.io/badge/IMPROVE-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Improve">
+
+</div>
+
+---
+
+## GAME DEVELOPMENT STACK
+
+### ENGINE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=unity" height="70" alt="Unity">
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNITY-2026-111111?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+
+</div>
+
+### PROGRAMMING
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs" height="70" alt="C#">
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-Programming-68217A?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp">
+
+</div>
+
+### 3D & ASSETS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=blender" height="70" alt="Blender">
+
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Blender-3D%20Assets-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+
+</div>
+
+### GAME DEVELOPMENT AREAS
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/2D%20Game%20Development-111111?style=for-the-badge" alt="2D Game Development">
+<img src="https://img.shields.io/badge/3D%20Game%20Development-111111?style=for-the-badge" alt="3D Game Development">
+<img src="https://img.shields.io/badge/Game%20Mechanics-111111?style=for-the-badge" alt="Game Mechanics">
+<img src="https://img.shields.io/badge/Game%20Physics-111111?style=for-the-badge" alt="Game Physics">
+
+<br>
+
+<img src="https://img.shields.io/badge/Game%20AI-111111?style=for-the-badge" alt="Game AI">
+<img src="https://img.shields.io/badge/Animation-111111?style=for-the-badge" alt="Animation">
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-111111?style=for-the-badge" alt="UI UX">
+<img src="https://img.shields.io/badge/Optimization-111111?style=for-the-badge" alt="Optimization">
+<img src="https://img.shields.io/badge/Multiplayer-111111?style=for-the-badge" alt="Multiplayer">
+
+</div>
+
+---
+
+## GAME DEVELOPMENT JOURNEY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-ff3b30?style=for-the-badge" alt="C Sharp">
+<img src="https://img.shields.io/badge/OOP%20%26%20DSA-111111?style=for-the-badge" alt="OOP and DSA">
+<img src="https://img.shields.io/badge/Unity%20Fundamentals-ff3b30?style=for-the-badge" alt="Unity Fundamentals">
+<img src="https://img.shields.io/badge/2D%20Games-111111?style=for-the-badge" alt="2D Games">
+<img src="https://img.shields.io/badge/3D%20Games-ff3b30?style=for-the-badge" alt="3D Games">
+
 <br><br>
 
-`[ GAME DEV ]` ` [ UNITY ]` ` [ C# ]` ` [ GAME DESIGN ]` ` [ BUILDING ]`
+<img src="https://img.shields.io/badge/Game%20Physics-111111?style=for-the-badge" alt="Game Physics">
+<img src="https://img.shields.io/badge/Animation-ff3b30?style=for-the-badge" alt="Animation">
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-111111?style=for-the-badge" alt="UI UX">
+<img src="https://img.shields.io/badge/Game%20AI-ff3b30?style=for-the-badge" alt="Game AI">
+<img src="https://img.shields.io/badge/Blender-111111?style=for-the-badge" alt="Blender">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Optimization-ff3b30?style=for-the-badge" alt="Optimization">
+<img src="https://img.shields.io/badge/Multiplayer-111111?style=for-the-badge" alt="Multiplayer">
+<img src="https://img.shields.io/badge/Portfolio%20Games-ff3b30?style=for-the-badge" alt="Portfolio Games">
+<img src="https://img.shields.io/badge/Game%20Jams-111111?style=for-the-badge" alt="Game Jams">
+<img src="https://img.shields.io/badge/Indie%20Game%20Developer-ff3b30?style=for-the-badge" alt="Indie Game Developer">
 
 </div>
 
 ---
 
+## CURRENTLY LEARNING
+
 <div align="center">
 
-## `╔══════════════════════════════════╗`
+<img src="https://img.shields.io/badge/Advanced%20C%23-111111?style=for-the-badge" alt="Advanced C Sharp">
+<img src="https://img.shields.io/badge/Object--Oriented%20Programming-111111?style=for-the-badge" alt="OOP">
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-111111?style=for-the-badge" alt="DSA">
 
-## `║        PLAYER INFORMATION       ║`
+<br>
 
-## `╚══════════════════════════════════╝`
+<img src="https://img.shields.io/badge/Unity%20Systems-111111?style=for-the-badge" alt="Unity Systems">
+<img src="https://img.shields.io/badge/Game%20Physics-111111?style=for-the-badge" alt="Game Physics">
+<img src="https://img.shields.io/badge/Game%20AI-111111?style=for-the-badge" alt="Game AI">
+
+<br>
+
+<img src="https://img.shields.io/badge/Animation-111111?style=for-the-badge" alt="Animation">
+<img src="https://img.shields.io/badge/Blender-111111?style=for-the-badge" alt="Blender">
+<img src="https://img.shields.io/badge/Optimization-111111?style=for-the-badge" alt="Optimization">
+<img src="https://img.shields.io/badge/Multiplayer%20Concepts-111111?style=for-the-badge" alt="Multiplayer Concepts">
 
 </div>
 
-<table align="center">
+---
+
+## FEATURED PROJECT
+
+### DRONE VS ENEMY COMBAT SIMULATION
+
+<img src="https://img.shields.io/badge/UNITY%20PROTOTYPE-ff3b30?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Prototype">
+
+A combat simulation prototype focused on **player movement, weapons, enemy AI, navigation, and game feedback**.
+
+<table>
 <tr>
 <td width="50%">
 
-### `PLAYER`
+### PLAYER SYSTEM
 
-**Name:** Thejaswin S
-**Class:** B.Tech Information Technology Student
-**Year:** 2nd Year
-**College:** Sri Venkateswaraa College of Technology
-**Campus:** Vadakkal Campus
-**1st Year SGPA:** 7.85
+<img src="https://img.shields.io/badge/WASD%20Movement-111111?style=flat-square" alt="WASD">
+<img src="https://img.shields.io/badge/Q%20Ascend-111111?style=flat-square" alt="Q Ascend">
+<img src="https://img.shields.io/badge/E%20Descend-111111?style=flat-square" alt="E Descend">
+<img src="https://img.shields.io/badge/Rigidbody-111111?style=flat-square" alt="Rigidbody">
 
 </td>
 <td width="50%">
 
-### `CURRENT MISSION`
+### COMBAT SYSTEM
 
-**Primary Objective:**
-Become an **Indie Game Developer**
+<img src="https://img.shields.io/badge/Missile%20System-111111?style=flat-square" alt="Missile System">
+<img src="https://img.shields.io/badge/Enemy%20Shooting-111111?style=flat-square" alt="Enemy Shooting">
+<img src="https://img.shields.io/badge/Destroyable%20Targets-111111?style=flat-square" alt="Destroyable Targets">
 
-**Core Direction:**
+</td>
+</tr>
 
-`LEARN` → `BUILD` → `EXPERIMENT` → `PUBLISH` → `IMPROVE`
+<tr>
+<td width="50%">
 
-**Secondary Goal:**
-TNUSRB 2029 Aspirant
+### AI SYSTEM
+
+<img src="https://img.shields.io/badge/Enemy%20Patrol-111111?style=flat-square" alt="Enemy Patrol">
+<img src="https://img.shields.io/badge/NavMesh-111111?style=flat-square" alt="NavMesh">
+<img src="https://img.shields.io/badge/Enemy%20Detection-111111?style=flat-square" alt="Enemy Detection">
+
+</td>
+<td width="50%">
+
+### GAME FEEDBACK
+
+<img src="https://img.shields.io/badge/Camera%20Follow-111111?style=flat-square" alt="Camera Follow">
+<img src="https://img.shields.io/badge/Audio-111111?style=flat-square" alt="Audio">
+<img src="https://img.shields.io/badge/Particles-111111?style=flat-square" alt="Particles">
 
 </td>
 </tr>
@@ -73,369 +221,45 @@ TNUSRB 2029 Aspirant
 
 ---
 
-<div align="center">
-
-## `MISSION // ABOUT ME`
-
-</div>
-
-I'm **Thejaswin S**, a B.Tech Information Technology student focused on learning **game development, programming, and software development**.
-
-My main ambition is to become an **Indie Game Developer** and eventually design, develop, publish, and maintain my own original games.
-
-I'm currently building my foundation through **Unity, C#, game mechanics, AI systems, physics, animation, UI/UX, Blender, and practical projects**.
-
-I'm not here to pretend I've mastered everything. I'm here to **learn, build, break things, fix them, and keep improving**.
-
----
+## DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-## `SKILL TREE // GAME DEVELOPMENT`
+<img src="https://img.shields.io/badge/IDEA-0d1117?style=for-the-badge" alt="Idea">
+
+↓
+
+<img src="https://img.shields.io/badge/PROTOTYPE-0d1117?style=for-the-badge" alt="Prototype">
+
+↓
+
+<img src="https://img.shields.io/badge/IS%20IT%20FUN%3F-ff3b30?style=for-the-badge" alt="Is it Fun">
+
+↓
+
+<img src="https://img.shields.io/badge/BUILD-0d1117?style=for-the-badge" alt="Build">
+
+↓
+
+<img src="https://img.shields.io/badge/TEST-0d1117?style=for-the-badge" alt="Test">
+
+↓
+
+<img src="https://img.shields.io/badge/POLISH-0d1117?style=for-the-badge" alt="Polish">
+
+↓
+
+<img src="https://img.shields.io/badge/PUBLISH-ff3b30?style=for-the-badge" alt="Publish">
+
+↓
+
+<img src="https://img.shields.io/badge/LEARN-0d1117?style=for-the-badge" alt="Learn">
 
 </div>
 
-```text
-                           GAME DEVELOPER
-                                  │
-                  ┌───────────────┴───────────────┐
-                  │                               │
-            PROGRAMMING                       GAME DEV
-                  │                               │
-          ┌───────┴───────┐               ┌───────┴────────┐
-          │               │               │                │
-         C#              DSA           UNITY 2D          UNITY 3D
-          │                               │                │
-         OOP                        GAME MECHANICS     GAME PHYSICS
-          │                               │                │
-      SYSTEMS ─────────────────────── GAME AI ─────── ANIMATION
-                                          │
-                                      UI / UX
-                                          │
-                                       BLENDER
-                                          │
-                                    OPTIMIZATION
-                                          │
-                                     MULTIPLAYER
-```
-
-### `ROADMAP`
-
-```text
-C#
- ↓
-OOP & DSA
- ↓
-Unity Fundamentals
- ↓
-2D Game Development
- ↓
-3D Game Development
- ↓
-Game Physics
- ↓
-Animation
- ↓
-UI/UX
- ↓
-Game AI
- ↓
-Blender
- ↓
-Optimization
- ↓
-Multiplayer
- ↓
-Portfolio Games
- ↓
-Game Jams
- ↓
-Internship
- ↓
-Junior Game Developer
-```
-
 ---
 
-<div align="center">
-
-## `CURRENT OBJECTIVES // WHAT I'M BUILDING`
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-### 🎮 GAME DEVELOPMENT
-
-Learning Unity and building small playable prototypes.
-
-</td>
-<td align="center" width="33%">
-
-### 💻 PROGRAMMING
-
-Improving C#, OOP, DSA and game-system programming.
-
-</td>
-<td align="center" width="33%">
-
-### 🎨 CREATIVE SYSTEMS
-
-Exploring Blender, game UI/UX, animation and 3D assets.
-
-</td>
-</tr>
-</table>
-
-```text
-[✓] Learn Unity
-[✓] Build Game Prototypes
-[✓] Practice C#
-[→] Improve Game AI
-[→] Explore Blender
-[→] Learn Optimization
-[→] Build Portfolio Games
-[→] Enter Game Jams
-```
-
----
-
-<div align="center">
-
-## `ARSENAL // TECH STACK`
-
-</div>
-
-### `GAME DEVELOPMENT`
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" alt="Unity C# Blender">
-</p>
-
-`Unity` · `C#` · `Blender`
-
-### `PROGRAMMING`
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,js" alt="C# JavaScript">
-</p>
-
-`C#` · `JavaScript`
-
-### `WEB DEVELOPMENT`
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" alt="Web Development Stack">
-</p>
-
-`HTML` · `CSS` · `JavaScript` · `React` · `Node.js` · `Express.js` · `MongoDB`
-
-### `DESIGN`
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma">
-</p>
-
-`Figma`
-
-### `DEVELOPER TOOLS`
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Developer Tools">
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Visual Studio`
-
-### `CREATIVE TOOLS`
-
-`DaVinci Resolve` · `Audacity`
-
----
-
-<div align="center">
-
-## `QUEST LOG // FEATURED PROJECTS`
-
-</div>
-
-### `01 // DRONE VS ENEMY COMBAT SIMULATION`
-
-**Unity Game Prototype**
-
-A combat simulation prototype focused on player control, enemy AI, navigation, weapons and game feedback systems.
-
-```text
-PLAYER SYSTEM
-├── WASD Movement
-├── Q : Ascend
-├── E : Descend
-└── Rigidbody-based Movement
-
-COMBAT SYSTEM
-├── Missile System
-├── Enemy Shooting
-└── Destroyable Targets
-
-AI SYSTEM
-├── Enemy Patrol
-├── NavMesh Navigation
-└── Enemy Detection
-
-GAME FEEDBACK
-├── Smooth Camera Follow
-├── Audio
-└── Particle Effects
-```
-
----
-
-### `02 // THINKBOARD`
-
-**MERN Web Application**
-
-A functional web application built while developing practical full-stack development skills.
-
-`MongoDB` · `Express.js` · `React` · `Node.js`
-
----
-
-### `03 // GWEN`
-
-**AI Mini Project**
-
-An AI-based project involving multiple practical features including:
-
-`Object Detection` · `Email Functionality` · `Question Answering` · `Weather Information`
-
----
-
-### `04 // QUIZ TIME`
-
-**Interactive Frontend Quiz Project**
-
-A browser-based quiz experience built using:
-
-`HTML` · `CSS` · `JavaScript`
-
-Focused on interactive question handling and frontend development.
-
----
-
-### `05 // GETFIT`
-
-**Gamified Student Fitness Platform Concept**
-
-A student fitness concept built around gamification and progression systems.
-
-```text
-Authentication
-      ↓
-Activities
-      ↓
-XP System
-      ↓
-Levels
-      ↓
-Daily Quests
-      ↓
-Streaks
-      ↓
-Badges
-      ↓
-Leaderboards
-```
-
----
-
-<div align="center">
-
-## `TRAINING MODE // CURRENTLY LEARNING`
-
-</div>
-
-```text
-C#                  █████████░  Learning
-OOP                 ████████░░  Learning
-DSA                 ███████░░░  Learning
-Unity Systems       ████████░░  Learning
-Game Physics        ██████░░░░  Learning
-Game AI             ██████░░░░  Learning
-Animation            █████░░░░░  Learning
-Blender              █████░░░░░  Learning
-Optimization         ████░░░░░░  Learning
-Multiplayer          ███░░░░░░░  Exploring
-```
-
-> Progress is shown as a visual representation of my learning journey, not as professional skill ratings.
-
----
-
-<div align="center">
-
-## `DEVELOPMENT LOOP`
-
-</div>
-
-```text
-        ┌──────────┐
-        │   IDEA   │
-        └────┬─────┘
-             ↓
-      ┌──────────────┐
-      │   PROTOTYPE  │
-      └──────┬───────┘
-             ↓
-     ┌────────────────┐
-     │   IS IT FUN?   │
-     └───────┬────────┘
-             ↓
-        ┌──────────┐
-        │  BUILD   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │   TEST   │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │  POLISH  │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │ PUBLISH  │
-        └────┬─────┘
-             ↓
-        ┌──────────┐
-        │  LEARN   │
-        └────┬─────┘
-             │
-             └──────────────→ REPEAT
-```
-
----
-
-<div align="center">
-
-## `WORK HISTORY // EXPERIENCE`
-
-</div>
-
-### `DATA ANALYTICS INTERN`
-
-**ApexPlanet Software Pvt. Ltd.**
-`June 2026 — August 2026`
-
-Remote part-time internship experience focused on data analytics.
-
----
-
-<div align="center">
-
-## `GITHUB // SYSTEM STATUS`
-
-</div>
+## GITHUB
 
 <div align="center">
 
@@ -449,133 +273,19 @@ Remote part-time internship experience focused on data analytics.
 
 </div>
 
-> GitHub statistics are generated dynamically from my public GitHub activity.
-
 ---
 
 <div align="center">
 
-## `FEATURED REPOSITORIES`
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">
-
-### `GAME DEV`
-
-Unity game prototypes and experiments
-
-</td>
-<td align="center">
-
-### `WEB DEVELOPMENT`
-
-Full-stack and frontend projects
-
-</td>
-<td align="center">
-
-### `EXPERIMENTS`
-
-Learning projects and technical experiments
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/Thejaswin67">
-  <img src="https://img.shields.io/badge/View_All_Repositories-ff3b30?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `PLAYER INTERESTS`
-
-</div>
-
-<table align="center">
-<tr>
-<td>🎮 Indie Game Development</td>
-<td>🧩 Game Mechanics</td>
-<td>🤖 Game AI</td>
-</tr>
-<tr>
-<td>🎨 Game Design</td>
-<td>🕹️ Unity Development</td>
-<td>🧊 3D Game Development</td>
-</tr>
-<tr>
-<td>✏️ 2D Game Development</td>
-<td>🧱 Blender & 3D Assets</td>
-<td>💻 Programming</td>
-</tr>
-<tr>
-<td colspan="3" align="center">🚀 Building Original Projects</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `CAREER OBJECTIVE`
-
-</div>
-
-> **To become an Indie Game Developer capable of designing, developing, publishing, and maintaining original games.**
-
-My current path is centered on building strong programming fundamentals, learning game development systems, creating practical projects, and gradually turning those skills into complete games.
-
-**Secondary Career Direction:** `TNUSRB 2029 Aspirant`
-
----
-
-<div align="center">
-
-## `INSPIRATION`
-
-### *“With Great Power Comes Great Responsibility.”*
-
-</div>
-
----
-
-<div align="center">
-
-## `CONNECT // PLAYER NETWORK`
-
-<a href="https://github.com/Thejaswin67">
-  <img src="https://img.shields.io/badge/GitHub-Thejaswin67-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/thejaswin-s/">
-  <img src="https://img.shields.io/badge/LinkedIn-Thejaswin%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://thejaswinportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-ff3b30?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
+<img src="https://img.shields.io/badge/INDIE%20GAME%20DEVELOPER-IN%20PROGRESS-ff3b30?style=for-the-badge&labelColor=0d1117" alt="Indie Game Developer">
 
 <br><br>
 
-```text
-STATUS : LEARNING
-MODE   : BUILDING
-FOCUS  : GAME DEVELOPMENT
-NEXT   : CREATE SOMETHING PLAYABLE
-```
+**“With Great Power Comes Great Responsibility.”**
 
-<br>
+<br><br>
 
-### `Still learning. Still building. Still creating.`
-
-**Made with code, creativity, and curiosity.**
+**Still learning. Still building. Still creating.**
 
 </div>
 
