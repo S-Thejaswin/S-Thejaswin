@@ -9,9 +9,6 @@
 **Learning code. Building games. Creating worlds.**
 
 <br>
-
-<a href="https://github.com/Thejaswin67">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/thejaswin-s/">
